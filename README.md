@@ -17,3 +17,6 @@ Commands (command prefix is !)
 
 Anyone looking to use this bot must create a .env file for their bot's token
 then load the file into the environment variables.
+
+Current implementation makes use of Bot class, but there is an implementation using Client.
+Note: Client implementation may warrant using name of guild in environment variables
